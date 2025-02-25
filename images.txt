@@ -1,1 +1,1 @@
-axboy/leanote
+lobehub/lobe-chat-database:1.64.0
