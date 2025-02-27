@@ -1,1 +1,1 @@
-blinkospace/blinko
+lobehub/lobe-chat-database:1.66.1
