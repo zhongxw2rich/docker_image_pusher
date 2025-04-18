@@ -1,1 +1,1 @@
-searxng/searxng
+lobehub/lobe-chat:1.81.0
