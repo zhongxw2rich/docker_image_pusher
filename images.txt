@@ -1,1 +1,1 @@
-lobehub/lobe-chat-database:1.82.4
+lobehub/lobe-chat-database:1.85.8
